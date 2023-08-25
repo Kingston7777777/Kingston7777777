@@ -1,8 +1,6 @@
 - 👋 Hi, I am Kingsley Anyichie
-- 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in web development, software engineering, ethical hacking and machine learning
 - 💞️ I’m looking to collaborate on web projects and software projects
-- 📫 How to reach me ...
 
 <!---
 Kingston7777777/Kingston7777777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
